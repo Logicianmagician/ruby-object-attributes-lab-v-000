@@ -12,7 +12,7 @@ def name= (dog_name)
   @name = dog_name
 end
 
-def breed(breed)
+def breed
   @breed = breed
 end
 
