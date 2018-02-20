@@ -16,7 +16,7 @@ def breeds(breed)
   @breed = breed
 end
 
-def breeds
+def breed
   @breeds
 end
 
