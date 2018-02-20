@@ -20,7 +20,7 @@ def breed
   @breeds
 end
 
-def breeds= (breed_name)
+def breed= (breed_name)
   @breed = breed_name
 end
 end
