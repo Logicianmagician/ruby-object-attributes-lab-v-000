@@ -5,7 +5,7 @@ def name=(name)
 end
 
 def name
- dog_name
+ dog_name = Dog.new
 end
 
 end
