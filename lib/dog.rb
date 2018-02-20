@@ -23,3 +23,4 @@ end
 def breeds= (breed_name)
   @breed = breed_name
 end
+end
